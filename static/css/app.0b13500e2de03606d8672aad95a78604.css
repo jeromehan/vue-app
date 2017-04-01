@@ -2609,7 +2609,7 @@ input[type="search"]::-webkit-search-cancel-button {
 }
 @font-face {
 	font-family: "aui_iconfont";
-	src: url(/dist/static/fonts/aui-iconfont.83b9cc0.ttf) format('truetype');
+	src: url(static/fonts/aui-iconfont.83b9cc0.ttf) format('truetype');
 }
 .aui-iconfont {
 	position: relative;
